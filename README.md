@@ -27,8 +27,8 @@ Virtue Quest: Ummah Builder is an interactive web-based game where players build
 
 **Yasin Mohammed Miah**
 - Role: Lead Developer
-- GitHub: [github.com/yasinmiah](https://github.com/yasinmiah)
-- Portfolio: [yasinmiah.dev](https://yasinmiah.dev)
+- GitHub: [github.com/yasinmiah](https://github.com/yasinmmiah)
+- Portfolio: [Yasin Mohammed Miah](https://yasinmiah.com)
 
 ## Getting Started
 
